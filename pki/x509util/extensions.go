@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/x509"
 	"github.com/pkg/errors"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 func convertName(s string) string {

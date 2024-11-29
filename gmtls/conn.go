@@ -26,7 +26,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 // A Conn represents a secured connection.

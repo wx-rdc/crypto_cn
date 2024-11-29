@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/sm3"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm3"
 )
 
 func verifyKeyPair(priv, pub interface{}) error {

@@ -25,7 +25,7 @@ import (
 	"io"
 	"math/big"
 
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/x509"
 
 	"golang.org/x/crypto/curve25519"
 )

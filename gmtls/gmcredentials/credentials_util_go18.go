@@ -15,7 +15,7 @@ limitations under the License.
 
 package gmcredentials
 
-import gmtls "gitee.com/cryptolab/crypto_cn/gmtls"
+import gmtls "github.com/wx-rdc/crypto_cn/gmtls"
 
 // cloneTLSConfig returns a shallow clone of the exported
 // fields of cfg, ignoring the unexported sync.Once, which

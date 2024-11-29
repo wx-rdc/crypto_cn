@@ -19,7 +19,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 func ReadPrivateKeyFromPem(privateKeyPem []byte, pwd []byte) (*sm2.PrivateKey, error) {

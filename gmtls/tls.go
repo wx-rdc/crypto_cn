@@ -29,8 +29,8 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	X "gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	X "github.com/wx-rdc/crypto_cn/x509"
 )
 
 // Server returns a new TLS server side connection

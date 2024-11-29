@@ -6,8 +6,8 @@ import (
 	"errors"
 	"os"
 
-	"gitee.com/cryptolab/crypto_cn/gmtls"
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/gmtls"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 type loadCertsFunc func() ([]gmtls.Certificate, error)

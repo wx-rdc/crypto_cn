@@ -12,9 +12,9 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/x509"
 	"github.com/pkg/errors"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/x509"
 	"golang.org/x/crypto/ssh"
 )
 

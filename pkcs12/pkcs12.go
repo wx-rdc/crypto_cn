@@ -22,8 +22,8 @@ import (
 	"errors"
 	"io/ioutil"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	x "gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	x "github.com/wx-rdc/crypto_cn/x509"
 )
 
 var (

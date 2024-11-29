@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 func TestPKCS7SM2(t *testing.T) {

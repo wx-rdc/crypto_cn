@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 type pkcs8 struct { // Duplicated from x509 package

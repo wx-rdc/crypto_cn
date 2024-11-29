@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"hash"
 
-	"gitee.com/cryptolab/crypto_cn/sm3"
+	"github.com/wx-rdc/crypto_cn/sm3"
 )
 
 // Split a premaster secret in two as specified in RFC 4346, section 5.

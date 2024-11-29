@@ -27,7 +27,7 @@ import (
 	"io"
 	"math/big"
 
-	"gitee.com/cryptolab/crypto_cn/sm3"
+	"github.com/wx-rdc/crypto_cn/sm3"
 )
 
 var (

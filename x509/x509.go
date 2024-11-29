@@ -40,8 +40,8 @@ import (
 	"strconv"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/sm3"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm3"
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"
 )

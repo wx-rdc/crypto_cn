@@ -19,7 +19,7 @@ import (
 	"sort"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 // PKCS7 Represents a PKCS7 structure

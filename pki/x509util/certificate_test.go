@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 func createCertificateRequest(t *testing.T, commonName string, sans []string) (*x509.CertificateRequest, crypto.Signer) {

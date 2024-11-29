@@ -6,9 +6,9 @@ import (
 	"crypto"
 	"encoding/json"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/x509"
 	"github.com/pkg/errors"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 // Certificate is the JSON representation of a X.509 certificate. It is used to

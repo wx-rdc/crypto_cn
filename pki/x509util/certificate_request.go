@@ -7,8 +7,8 @@ import (
 	"crypto/x509/pkix"
 	"encoding/json"
 
-	"gitee.com/cryptolab/crypto_cn/x509"
 	"github.com/pkg/errors"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 var oidExtensionSubjectAltName = []int{2, 5, 29, 17}

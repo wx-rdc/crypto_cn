@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/gmtls"
-	"gitee.com/cryptolab/crypto_cn/gmtls/gmcredentials/echo"
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/gmtls"
+	"github.com/wx-rdc/crypto_cn/gmtls/gmcredentials/echo"
+	"github.com/wx-rdc/crypto_cn/x509"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

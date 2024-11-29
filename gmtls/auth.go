@@ -23,7 +23,7 @@ import (
 	"errors"
 	"fmt"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 // pickSignatureAlgorithm selects a signature algorithm that is compatible with

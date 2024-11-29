@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 func TestX509(t *testing.T) {

@@ -15,10 +15,10 @@ import (
 	"strings"
 	"sync"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/sm3"
-	"gitee.com/cryptolab/crypto_cn/sm4"
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm3"
+	"github.com/wx-rdc/crypto_cn/sm4"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 const VersionGMSSL = 0x0101 // GM/T 0024-2014

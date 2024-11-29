@@ -6,7 +6,7 @@ import (
 	"errors"
 	"math/big"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/sm2"
 )
 
 var one = new(big.Int).SetInt64(1)

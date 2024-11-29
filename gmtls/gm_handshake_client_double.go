@@ -16,8 +16,8 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"gitee.com/cryptolab/crypto_cn/sm2"
-	"gitee.com/cryptolab/crypto_cn/x509"
+	"github.com/wx-rdc/crypto_cn/sm2"
+	"github.com/wx-rdc/crypto_cn/x509"
 )
 
 type clientHandshakeStateGM struct {

@@ -14,8 +14,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"gitee.com/cryptolab/crypto_cn/x509"
 	"github.com/pkg/errors"
+	"github.com/wx-rdc/crypto_cn/x509"
 	"golang.org/x/net/idna"
 )
 
